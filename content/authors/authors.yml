@@ -1,17 +1,17 @@
-- name: Dennis Brotzky
+- name: Teguh Ainul Darajat
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+    The quick brown fox jumps over a lazy dog
+    lalalalsdlasdklasjdlasjd
+  avatar: ./avatars/teguh-ainul-darajat.jpg
   featured: true
   social:
     - name: github
-      url: https://github.com
+      url: https://github.com/teguhdarajat
     - name: twitter
-      url: https://github.com
+      url: https://github.com/teguhdarajat
     - name: instagram
-      url: https://github.com
+      url: https://instagram.com/teguhdarajat
     - name: dribbble
       url: https://github.com
     - name: linkedin
-      url: https://github.com
+      url: https://linkedin.com/in/teguhdarajat

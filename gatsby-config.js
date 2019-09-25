@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Teguh Ainul Darajat`,
+    name: `teguhDarajat`,
+    siteUrl: `https://teguhdarajat.tech`,
+    description: `Deskripsi Blog`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Selamat datang di salah satu bagian kecil Internet`,
       maxWidth: 652,
     },
     social: [
@@ -15,19 +15,15 @@ module.exports = {
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://github.com/teguhdarajat`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/teguhdarajat`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://dribbble.com/`,
       },
     ],
   },
